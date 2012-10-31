@@ -20,4 +20,7 @@ public class demo {
         pagereference pagref=new pagereference('/'+accobj.Name);
         return pagref;
     }
+    void sample()
+    {
+    }
 }
